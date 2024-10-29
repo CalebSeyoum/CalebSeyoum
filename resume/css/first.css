@@ -1,0 +1,44 @@
+/* unvisited link */
+a:link {
+   color: antiquewhite;
+   text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+   color: ghostwhite;
+   text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+   color: hotpink;
+   text-decoration: overline;
+}
+
+/* selected link */
+a:active {
+   color: blue;
+}
+.nav, navigation {
+		font-family: Helvetica;
+		text-align:center;
+		font-weight: bolder;
+		font-size: 1.3em;
+		text-align: center;
+}
+h2 {
+		color: navy;
+		font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+p, ul, li {
+		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+		color: darkblue;
+		font-size: 1.2em:
+		line-height: 135%
+}
+li {
+		font-size: 0.9em;
+		color: blue;
+		margin-bottom: 1.2em;
+}
